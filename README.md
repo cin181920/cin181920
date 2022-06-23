@@ -10,8 +10,8 @@
 🌱📈 I always training , explore and learning about programming, tecnology and new things 
 👩🏻‍💼 More about me you can check my github repository and [my linkedn](https://www.linkedin.com/in/cintya-kristianto/)
 🤙 You can connect my social media in [instagram](https://www.instagram.com/tya_cin/) or email me in kristiantocintya@gmail.com
-😄 I'm so happy know you and enjoy my github project ! 
+😄 I'm so happy know you and enjoy my github project ! </br>
 
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cin181920&show_icons=true&theme=radical) </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cin181920&theme=radical) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cin181920&theme=radical) </br>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cin181920&show_icons=true&theme=radical)
