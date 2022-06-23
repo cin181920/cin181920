@@ -17,10 +17,12 @@
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cin181920&show_icons=true&theme=radical) </br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cin181920&theme=radical) 
 
-<ul>
-   <li><img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff "></li> 
-   <li><img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff"></li>   
-</ul>
+##🖥️ Computer Langguage 
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff "></br>
+<img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff"> </br>
+<img src="https://img.shields.io/badge/-jupyter-F37626?logo=jupyter5&logoColor=fff "></br>
+<img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=fff"> </br>
+   
 
 
 
