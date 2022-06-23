@@ -17,15 +17,7 @@
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cin181920&show_icons=true&theme=radical) </br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cin181920&theme=radical) 
 
-<h2>🖥️ Tecnology</h2> 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff "> <img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff">
-<img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-jupyter-F37626?logo=jupyter&logoColor=fff">
-<img src="https://img.shields.io/badge/-python-3776AB?logo=Python&logoColor=fff">
-<img src="https://img.shields.io/badge/-flutter-02569B?logo=flutter&logoColor=fff ">
-<img src="https://img.shields.io/badge/-laravel-FF2D20?logo=laravel&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=fff">
-<img src="https://img.shields.io/badge/-MySQl-4479A1?logo=MySQL&logoColor=fff">   
+  
 
 
 
