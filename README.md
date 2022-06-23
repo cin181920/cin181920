@@ -1,8 +1,8 @@
 ### Hello, welcome to my Github ! I'm Cintya👋
 
-👩‍💻 I'm women ... developer ! 
-😃 My name is ... Cintya Kristianto 
-🧐 I'am currently focus :
+👩‍💻 I'm women developer ! </br>
+😃 My name is Cintya Kristianto </br>
+🧐 I'am currently focus : </br>
    🌐  Website devolopment 
    📱   Android development
    🤖  Machine learning development 
