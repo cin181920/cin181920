@@ -19,7 +19,7 @@
 
 <ul>
    <li><img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff "></li> 
-   <li><img src=" https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff "></li>   
+   <li><img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff"></li>   
 </ul>
 
 
