@@ -18,7 +18,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cin181920&theme=radical) 
 
 <h2>🖥️ Tecnology</h2> 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff ">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff "> <img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff">
 <img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&logoColor=fff"> 
 <img src="https://img.shields.io/badge/-jupyter-F37626?logo=jupyter&logoColor=fff">
 <img src="https://img.shields.io/badge/-python-3776AB?logo=Python&logoColor=fff">
