@@ -1,8 +1,5 @@
 ### Hello, welcome to my Github ! I'm Cintya👋
 
-<!--
-**cin181920/cin181920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👩‍💻 I'm women developer !
 😃 My name is Cintya Kristianto 
 🧐 I'am currently focus :
