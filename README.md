@@ -13,4 +13,4 @@
 😄 I'm so happy know you and enjoy my github project ! 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical)
