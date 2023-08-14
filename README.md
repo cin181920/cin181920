@@ -4,7 +4,7 @@
 😃 My name is Cintya Kristianto </br>
 🧐 I'am currently focus : </br>
    <ul>
-   <li>🌐  Website devolopment </li>
+   <li>🌐  Website development </li>
    <li>📱   Android development</li>
    <li> 🤖  Machine learning development </li>
    <li>🧾  Data analyst</li>
